@@ -1,4 +1,4 @@
-#git commit test with .md file
+# git commit test with .md file
 
 We are testing how the markdown text works
 
@@ -6,7 +6,9 @@ Follow [Detailed steps are higlighted here](https://towardsdatascience.com/how-t
 
 post first commit
 
-To run app:
+
+
 ```
 python hello.py
 ```
+# Isn't it great
